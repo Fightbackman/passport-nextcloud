@@ -1,24 +1,22 @@
-# passport-github
+# passport-nextcloud
 
-[Passport](http://passportjs.org/) strategy for authenticating with [GitHub](https://github.com/)
+[Passport](http://passportjs.org/) strategy for authenticating with [Nextcloud](https://nextcloud.org/)
 using the OAuth 2.0 API.
 
-This module lets you authenticate using GitHub in your Node.js applications.
-By plugging into Passport, GitHub authentication can be easily and
+This module lets you authenticate using Nextcloud in your Node.js applications.
+By plugging into Passport, Nextcloud authentication can be easily and
 unobtrusively integrated into any application or framework that supports
 [Connect](http://www.senchalabs.org/connect/)-style middleware, including
 [Express](http://expressjs.com/).
 
-[![npm](https://img.shields.io/npm/v/passport-github.svg)](https://www.npmjs.com/package/passport-github)
-[![build](https://img.shields.io/travis/jaredhanson/passport-github.svg)](https://travis-ci.org/jaredhanson/passport-github)
-[![coverage](https://img.shields.io/coveralls/jaredhanson/passport-github.svg)](https://coveralls.io/github/jaredhanson/passport-github)
-[...](https://github.com/jaredhanson/passport-github/wiki/Status)
 
 ## Install
 
 ```bash
-$ npm install passport-github
+$ npm install passport-nextcloud
 ```
+
+# Ignore everything from starting here. All WIP
 
 ## Usage
 
